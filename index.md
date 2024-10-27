@@ -76,9 +76,10 @@ Link to an example file: [Additional information](Reference.md)
 
 ## Tables
 
-| Column | Column 2 | Column 3 |
-| ---------- | ---------- | ---------- | 
-| Row 1 | Row 1 | Row 1 |
-| Very long sentence | Another very long sentence | Row 3 |
+| Column             | Column 2                   | Column 3 |
+| ------------------ | -------------------------- | -------- |
+| Row 1              | Row 1                      | Row 1    |
+| Very long sentence | Another very long sentence | Row 3    |
 
 Test sentence
+
