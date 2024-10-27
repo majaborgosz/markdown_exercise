@@ -59,3 +59,17 @@ Link to an example file: [Additional information](Reference.md)
 #### External
 
 ![Random image](https://fastly.picsum.photos/id/501/200/200.jpg?hmac=tKXe69j4tHhkAA_Qc3XinkTuubEWwkFVhA9TR4TmCG8)
+
+## Lists
+
+### Ordered
+
+1. Point one
+2. Point two
+3. Point 3
+
+### Unordered
+
+* Bullet
+* Another bullet
+* Yet another bullet
