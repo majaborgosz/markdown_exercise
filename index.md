@@ -13,7 +13,7 @@ This is the third paragraph of my file. This is the third paragraph of my file. 
 
 This is **bold** text
 
-### Italc
+### Italic
 
 This is *italic* text 
 
