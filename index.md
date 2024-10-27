@@ -49,3 +49,13 @@ Example: [Weather forecast](https://www.meteo.pl/)
 #### Internal
 
 Link to an example file: [Additional information](Reference.md) 
+
+### Images
+
+#### Internal
+
+![Chleb](bread.jpeg) 
+
+#### External
+
+![Random image](https://fastly.picsum.photos/id/501/200/200.jpg?hmac=tKXe69j4tHhkAA_Qc3XinkTuubEWwkFVhA9TR4TmCG8)
